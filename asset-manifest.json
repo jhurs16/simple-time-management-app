@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/simple-time-management-app/static/js/main.b11153c9.js",
+    "static/js/787.dbdc8e91.chunk.js": "/simple-time-management-app/static/js/787.dbdc8e91.chunk.js",
+    "service-worker.js": "/simple-time-management-app/service-worker.js",
+    "static/media/clock.png": "/simple-time-management-app/static/media/clock.1be8dd52990dac52d2f3.png",
+    "index.html": "/simple-time-management-app/index.html",
+    "main.b11153c9.js.map": "/simple-time-management-app/static/js/main.b11153c9.js.map",
+    "787.dbdc8e91.chunk.js.map": "/simple-time-management-app/static/js/787.dbdc8e91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b11153c9.js"
+  ]
+}
